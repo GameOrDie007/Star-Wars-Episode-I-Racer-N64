@@ -9,7 +9,7 @@ around you.
 
 ## Install
 
-1. Download **`SWE1R.N64.Installer.exe`** from the
+1. Download **`Star Wars Episode I Racer (N64) Installer.exe`** from the
    [latest release](../../releases/latest) and double-click it. (Windows may
    say it protected your PC: click More info, then Run anyway. It is not
    code-signed.)
