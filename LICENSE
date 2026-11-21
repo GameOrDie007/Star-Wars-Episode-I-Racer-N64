@@ -1,0 +1,27 @@
+Star Wars Episode I: Racer (N64) - a Game Or Die port
+Copyright (c) 2026 Game Or Die. All rights reserved.
+
+This download is free to install and play on your own computer or headset.
+Nothing else is licensed. No part of it may be copied, shared from anywhere
+but Game Or Die's own release page, modified, decompiled, disassembled,
+reverse engineered, sold, re-uploaded or used in another project, in whole
+or in part, without Game Or Die's written permission.
+
+What this covers: Game Or Die's own work in this download - the program,
+the VR, the settings menu, the installers and scripts, the Game Tome's own
+pages, and the art.
+
+What it does not cover, and grants no rights to: Star Wars Episode I: Racer
+itself, its code and its data, its names and trademarks (they belong to
+their owners), and Nintendo's names and trademarks. Nothing of the game is
+in this download: you need your own cartridge file.
+
+Other people's parts keep their own licenses: the OpenXR loader, the wasm2c
+runtime, wasi-libc and the MinGW-w64 runtime. They are listed in
+THIRD-PARTY.txt and their texts are in the licenses folder. Those licenses
+cover only those parts.
+
+The names "SWE1R N64" and "Game Or Die", and the Game Or Die logo, are not
+licensed.
+
+THIS DOWNLOAD IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND.
