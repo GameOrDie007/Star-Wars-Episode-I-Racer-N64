@@ -17,6 +17,17 @@ around you.
    cartridge file by itself; if not, drop the file (or its .zip) on the window.
 3. Press **INSTALL**, then **PRESS START**.
 
+### Steam Deck and Linux
+
+The installer is for Windows. On a Steam Deck or a Linux PC:
+
+1. In Desktop Mode, download **`SWE1R-N64-<version>-Linux.tar.gz`** from the
+   [latest release](../../releases/latest), right-click it and choose
+   **Extract**.
+2. Open the folder and double-click **`Setup.sh`**. It finds your cartridge
+   file by itself and adds the game to Steam with its pictures.
+3. Back in Gaming Mode, it is in your Library under Non-Steam.
+
 ### Installing by hand
 
 - `SWE1R-N64-<version>-Windows.zip`: PC and PC VR. Unzip and run `Setup.bat`
@@ -24,7 +35,8 @@ around you.
   for VR), or just double-click `SWE1R-N64.exe`.
 - `SWE1R-N64-<version>-Quest.zip`: Quest 3 (`Setup.bat`, over USB) and Steam
   Frame (`Setup Steam Frame.bat`).
-- `SWE1R-N64-<version>-Linux.tar.gz`: Linux and Steam Deck, on the monitor.
+- `SWE1R-N64-<version>-Linux.tar.gz`: Steam Deck and Linux, on the screen
+  (`Setup.sh`, or run `swe1r-n64`).
 
 `sha256sums.txt` lists every file's checksum.
 
